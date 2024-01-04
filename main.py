@@ -18,5 +18,4 @@ headers = {
 }
 
 response = requests.get('https://vk.com/shvt', headers=headers)
-print(response)
 
